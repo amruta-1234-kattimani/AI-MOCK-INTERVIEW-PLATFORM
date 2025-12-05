@@ -1,4 +1,8 @@
-<img width="1920" height="1080" alt="Screenshot (50)" src="https://github.com/user-attachments/assets/47350775-3717-4827-b3c8-d40ad34cbab7" /><img width="1920" height="1080" alt="Screenshot (50)" src="https://github.com/user-attachments/assets/57561b2b-5c4f-4103-9f1f-6ecdabb3d736" />INTRODUCTION
+<img width="500" height="500" alt="Screenshot (50)" src="https://github.com/user-attachments/assets/47350775-3717-4827-b3c8-d40ad34cbab7" />
+<img width="500" height="500" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/57561b2b-5c4f-4103-9f1f-6ecdabb3d736" />
+
+
+INTRODUCTION
 In today’s competitive environment, performing well in job interviews has become essential for students and professionals. However, many candidates struggle with confidence, communication skills, and understanding how to answer questions effectively. Traditional mock interviews require human interviewers, making the process time-consuming and less accessible.
 To solve this challenge, the AI Mock Interview Platform provides an intelligent, accessible, and user-friendly solution that simulates real interview scenarios. Using Artificial Intelligence, Natural Language Processing (NLP), and machine learning, the system evaluates user responses, provides feedback, and guides candidates toward improvement.
 
