@@ -2,6 +2,8 @@
 <img width="500" height="500" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/57561b2b-5c4f-4103-9f1f-6ecdabb3d736" />
 
 
+
+
 # 🤖 AI Mock Interview Platform
 
 Welcome to the **AI Mock Interview Platform** – an intelligent, accessible, and user-friendly solution for simulating real job interview scenarios!  
